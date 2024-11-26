@@ -1,0 +1,4 @@
+django
+pandas
+numpy
+scikit-surprise==1.1.1
